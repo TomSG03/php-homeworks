@@ -5,6 +5,7 @@
 - [x] [Базовые операторы и функции](https://github.com/TomSG03/php-basics-operators)
 - [x] [Пользовательские функции](https://github.com/TomSG03/php-basics-functions)
 - [x] [Основы работы с объектами](https://github.com/TomSG03/php-basics-objects)
+- [x] [HTTP, заголовки, сессии](https://github.com/TomSG03/php-basics-http)
 
 ---
 [Спискок курсов](https://github.com/TomSG03/Training-in-Netology)
