@@ -7,6 +7,7 @@
 - [x] [Основы работы с объектами](https://github.com/TomSG03/php-basics-objects)
 - [x] [HTTP, заголовки, сессии](https://github.com/TomSG03/php-basics-http)
 - [x] [Файлы, html-формы](https://github.com/TomSG03/php-basics-form)
+- [x] [Создание и загрузка приложения на хостинг](https://github.com/TomSG03/php-basics-heroky)
 
 ---
 [Спискок курсов](https://github.com/TomSG03/Training-in-Netology)
